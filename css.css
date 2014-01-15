@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+}
+
+h2, .h2 {
+	font-size: 27px;
+	font-weight: 200;
+}
+
+
+#mypicture{
+	max-width: 80%;
+	max-height: 200px;
+}
+
+#presentation{
+	text-align: right;
+}
+
